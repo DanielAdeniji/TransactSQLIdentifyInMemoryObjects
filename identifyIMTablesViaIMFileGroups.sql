@@ -1,15 +1,3 @@
-use [ppsivr]
-go
-
-
-/*
-	exec sp_help 'dbo.oe_emp'
-
-	exec sp_help 'dbo.oe_dep'
-
-	exec sp_depends 'dbo.oe_emp'
-
-*/
 select
  
           [object]

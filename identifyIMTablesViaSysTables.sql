@@ -1,7 +1,3 @@
-use [ppsivr]
-go
-
-
 select
 		 [table]
 			= quotename(tblSS.[name])

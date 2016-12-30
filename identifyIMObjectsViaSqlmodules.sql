@@ -1,12 +1,4 @@
 
-use [ppsivr]
-go
-
-/*
-
-	exec sp_helpuser
-*/
-
 /*
 
 	sys.sql_modules
